@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mohammadbaqiransari/mohammadbaqiransari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 Mohammad Baqir Ansari
+### `Systems • Algorithms • Intelligent Architectures`
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohammadbaqiransari&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Machine%20Learning-blue?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Status-Compiling%20Ideas...-brightgreen?style=flat-square" alt="Status" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 💻 `system.info`
+
+```bash
+mohammad@workstation:~$ neofetch --profile
