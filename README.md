@@ -42,8 +42,13 @@ Specializing in Artificial Intelligence & Machine Learning
 ### Engineering Analytics
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohammadbaqiransari&show_icons=true&theme=default&hide_border=false&include_all_commits=true" alt="Baqir's GitHub Activity" />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadbaqiransari&theme=default&hide_border=false" alt="Contribution Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammadbaqiransari&theme=github" alt="Profile Details" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadbaqiransari&theme=default&hide_border=false" alt="Contribution Streak" />
 </div>
 
 ---
