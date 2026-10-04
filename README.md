@@ -3,8 +3,9 @@
 **Undergraduate Software Engineer**  
 Specializing in Artificial Intelligence & Machine Learning
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadbaqiransari)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/917038238829)
 [![Email](https://img.shields.io/badge/Email-mohammadbaqir9292%40gmail.com-0969da?style=flat-square&logo=gmail&logoColor=white)](mailto:mohammadbaqir9292@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mohammadbaqiransari)
 
 ---
@@ -53,8 +54,20 @@ Specializing in Artificial Intelligence & Machine Learning
 
 ---
 
-### Contact & Inquiries
+### Connect & Collaborate
 
-For project collaborations, inquiries, or professional opportunities, reach out directly:
+For inquiries, collaborations, or professional opportunities, reach out via your preferred channel:
 
-[![Send Direct Email](https://img.shields.io/badge/Contact%20Directly-mohammadbaqir9292%40gmail.com-0969da?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammadbaqir9292@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohammadbaqiransari" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://wa.me/917038238829" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  &nbsp;
+  <a href="mailto:mohammadbaqir9292@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0969da?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
