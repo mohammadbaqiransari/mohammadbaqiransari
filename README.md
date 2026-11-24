@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./assets/terminal.svg" alt="CMD Profile" width="100%" />
+<a href="https://github.com/mohammadbaqiransari">
+  <img src="./assets/terminal.svg" alt="CMD Profile" width="100%" />
+</a>
 
 <br/>
 
