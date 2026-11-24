@@ -1,73 +1,51 @@
-# Mohammad Baqir Ansari
-
-**Undergraduate Software Engineer**  
-Specializing in Artificial Intelligence & Machine Learning
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadbaqiransari)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/917038238829)
-[![Email](https://img.shields.io/badge/Email-mohammadbaqir9292%40gmail.com-0969da?style=flat-square&logo=gmail&logoColor=white)](mailto:mohammadbaqir9292@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mohammadbaqiransari)
-
----
-
-### Executive Summary
-
-* **Academics:** Pursuing a Bachelor of Technology in Computer Science & Engineering (AI & ML).
-* **Technical Focus:** Algorithmic optimization, object-oriented software engineering, machine learning pipelines, and responsive web tooling.
-* **Engineering Philosophy:** Writing modular, well-documented, and efficient code with a strong emphasis on computational complexity.
-* **Availability:** Actively seeking software engineering internships, collaborative technical projects, and research opportunities.
-
----
-
-### Technical Proficiencies
-
-* **Languages:**  
-  ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-* **Web Technologies & Tooling:**  
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-* **Core Competencies:**  
-  Data Structures & Algorithms • Object-Oriented Programming (OOP) • System Optimization • Computational Complexity
-
----
-
-### Engineering Analytics
-
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammadbaqiransari&theme=github" alt="Profile Details" />
-</div>
+
+<img src="./assets/terminal.svg" alt="CMD Profile" width="100%" />
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadbaqiransari&theme=default&hide_border=false" alt="Contribution Streak" />
+<h1>Hi 👋, I'm Mohammad Baqir Ansari</h1>
+<h3>B.Tech CSE (AI & ML) Student | AI Systems & Full-Stack Developer</h3>
+
 </div>
 
 ---
 
-### Connect & Collaborate
+- 🔭 I’m currently working on **MediSort & NexusStudy**
+- 🌱 I’m currently learning **Next.js, FastAPI, ROS 2, YOLOv8, PostgreSQL**
+- 👯 I’m looking to collaborate on **AI/ML Models, Edge Robotics & Open-Source Web Apps**
+- 📫 How to reach me **[mohammadbaqir9292@gmail.com](mailto:mohammadbaqir9292@gmail.com)**
 
-For inquiries, collaborations, or professional opportunities, reach out via your preferred channel:
+---
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohammadbaqiransari" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://wa.me/917038238829" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  &nbsp;
+<h3 align="center">🛠️ Languages and Tools</h3>
+<p align="center">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+</p>
+
+<br/>
+
+<h3 align="center">📫 Connect With Me</h3>
+<p align="center">
   <a href="mailto:mohammadbaqir9292@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0969da?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-mohammadbaqir9292%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/mohammadbaqiransari" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-mohammadbaqiransari-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
